@@ -1,0 +1,4 @@
+com\example\CLIPublisher.class
+com\example\RedisSubscribeRunner.class
+com\example\RedisSubscriber.class
+com\example\App.class
